@@ -1,3 +1,7 @@
+# Moved
+
+Moved to [**https://github.com/kosciolek/baldurs-gate-tesseract-roll**](https://github.com/kosciolek/baldurs-gate-tesseract-roll).
+
 # Baldur's Gate Autoroller
 
 - [Baldur's Gate Autoroller](#baldurs-gate-autoroller)
